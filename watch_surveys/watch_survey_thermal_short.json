@@ -84,21 +84,21 @@
 			"question_id": "q_color",
 			"response_options": [{
 					"text": "Red",
-					"icon": "color_lens",
+					"icon": "suit.heart.fill",
 					"use_sf_symbols": true,
 					"sf_symbols_color": "#FF0000",
 					"next_question_id": ""
 				},
 				{
 					"text": "Green",
-					"icon": "color_lens",
+					"icon": "hand.raised",
 					"use_sf_symbols": true,
 					"sf_symbols_color": "#00FF00",
 					"next_question_id": ""
 				},
 				{
 					"text": "Blue",
-					"icon": "color_lens",
+					"icon": "suit.heart.fill",
 					"use_sf_symbols": true,
 					"sf_symbols_color": "#0000FF",
 					"next_question_id": ""
