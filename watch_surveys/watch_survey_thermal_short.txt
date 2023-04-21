@@ -5,7 +5,7 @@
 			"question": "How would you prefer to be?",
 			"question_id": "q_thermal",
 			"response_options": [{
-					"text": "Cooler",
+					"text": "Cooler (plus some additional text to test linebreaks)",
 					"icon": "tp-cooler",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
