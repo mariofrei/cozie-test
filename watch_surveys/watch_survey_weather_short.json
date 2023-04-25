@@ -15,7 +15,7 @@
 					"text": "Cloudy",
 					"icon": "cloud.sun.fill",
 					"use_sf_symbols": true,
-					"sf_symbols_color": "#000000",
+					"sf_symbols_color": "#cacaca",
 					"next_question_id": ""
 				},
 				{
@@ -40,7 +40,7 @@
 					"text": "No",
 					"icon": "cloud.sun.bolt.fill",
 					"use_sf_symbols": true,
-					"sf_symbols_color": "#000000",
+					"sf_symbols_color": "#cacaca",
 					"next_question_id": ""
 				}
 			]
