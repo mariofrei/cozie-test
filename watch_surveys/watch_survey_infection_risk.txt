@@ -1,0 +1,31 @@
+{
+	"survey_name": "Infection risk",
+	"survey_id": "infection_risk",
+	"survey": [{
+			"question": "Do your surroundings increase infection risk?",
+			"question_id": "q_surroundings_infection",
+			"response_options": [{
+					"text": "Not at all",
+					"icon": "shield",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				},
+				{
+					"text": "A little",
+					"icon": "1virus",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				},
+				{
+					"text": "A lot",
+					"icon": "3virus",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				}
+			]
+		}
+	]
+}
