@@ -1,0 +1,31 @@
+{
+	"survey_name": "Noise and privacy",
+	"survey_id": "noise_and_privacy",
+	"survey": [{
+			"question": "Noise distractions nearby? (without earphones)",
+			"question_id": "q_noise_nearby",
+			"response_options": [{
+					"text": "None",
+					"icon": "none-1",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				},
+				{
+					"text": "A little",
+					"icon": "a-little",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				},
+				{
+					"text": "A lot",
+					"icon": "a-lot",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				}
+			]
+		}
+	]
+}
