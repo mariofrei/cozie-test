@@ -1,0 +1,38 @@
+{
+	"survey_name": "Movement",
+	"survey_id": "movement",
+	"survey": [{
+			"question": "In the last 60min, I used",
+			"question_id": "q_last_60min",
+			"response_options": [{
+					"text": "Lift",
+					"icon": "elevator",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				},
+				{
+					"text": "Stairs",
+					"icon": "stairs",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				},
+				{
+					"text": "Both",
+					"icon": "both",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				},
+				{
+					"text": "Neither",
+					"icon": "neither",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": ""
+				}
+			]
+		}
+	]
+}
