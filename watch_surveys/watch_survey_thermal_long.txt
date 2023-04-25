@@ -168,6 +168,13 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": "q_location_change"
+				},
+				{
+					"text": "Very Heavy",
+					"icon": "clo-heavy",
+					"use_sf_symbols": false,
+					"sf_symbols_color": "#000000",
+					"next_question_id": "q_location_change"
 				}
 			]
 		},
