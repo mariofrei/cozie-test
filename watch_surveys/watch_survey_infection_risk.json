@@ -91,7 +91,7 @@
 				},
 				{
 					"text": "Proximity",
-					"icon": "promixity",
+					"icon": "proximity",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": "q_within_5m"
