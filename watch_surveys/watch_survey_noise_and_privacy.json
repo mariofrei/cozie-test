@@ -214,6 +214,46 @@
       ]
     },
     {
+      "question": "What kind of transport?",
+      "question_id": "q_location_transport",
+      "response_options": [{
+          "text": "Bus",
+          "icon": "bus",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        },
+        {
+          "text": "Train",
+          "icon": "train",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        },
+        {
+          "text": "Car",
+          "icon": "car",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        },
+        {
+          "text": "Taxi",
+          "icon": "taxi",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        },
+        {
+          "text": "Other",
+          "icon": "other",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        }
+      ]
+    },
+    {
       "question": "Alone or in a group?",
       "question_id": "q_alone_group",
       "response_options": [{
