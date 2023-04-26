@@ -1,109 +1,109 @@
 {
-	"survey_name": "Infection risk",
-	"survey_id": "infection_risk",
-	"survey": [{
-			"question": "Do your surroundings increase infection risk?",
-			"question_id": "q_surroundings_infection",
-			"response_options": [{
-					"text": "Not at all",
-					"icon": "shield",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_within_5m"
-				},
-				{
-					"text": "A little",
-					"icon": "1virus",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_risk_cause"
-				},
-				{
-					"text": "A lot",
-					"icon": "3virus",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_risk_cause"
-				}
-			]
-		},
+  "survey_name": "Infection risk",
+  "survey_id": "infection_risk",
+  "survey": [{
+      "question": "Do your surroundings increase infection risk?",
+      "question_id": "q_surroundings_infection",
+      "response_options": [{
+          "text": "Not at all",
+          "icon": "shield",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_within_5m"
+        },
+        {
+          "text": "A little",
+          "icon": "1virus",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_risk_cause"
+        },
+        {
+          "text": "A lot",
+          "icon": "3virus",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_risk_cause"
+        }
+      ]
+    },
     {
-			"question": "Currently, how many people are within 5m?",
-			"question_id": "q_within_5m",
-			"response_options": [{
-					"text": "0 pax",
-					"icon": "0pax",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": ""
-				},
-				{
-					"text": "1-4 pax",
-					"icon": "0-4pax",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": ""
-				},
-				{
-					"text": "5+ pax",
-					"icon": "5pax",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": ""
-				}
-			]
-		},
+      "question": "Currently, how many people are within 5m?",
+      "question_id": "q_within_5m",
+      "response_options": [{
+          "text": "0 pax",
+          "icon": "0pax",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        },
+        {
+          "text": "1-4 pax",
+          "icon": "0-4pax",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        },
+        {
+          "text": "5+ pax",
+          "icon": "5pax",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        }
+      ]
+    },
     {
-			"question": "What causes more risk?",
-			"question_id": "q_risk_cause",
-			"response_options": [{
-					"text": "Ventilation",
-					"icon": "ventilation",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_within_5m"
-				},
-				{
-					"text": "People",
-					"icon": "people",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_concerns"
-				},
-				{
-					"text": "Surface",
-					"icon": "surface",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_within_5m"
-				}
-			]
-		},
+      "question": "What causes more risk?",
+      "question_id": "q_risk_cause",
+      "response_options": [{
+          "text": "Ventilation",
+          "icon": "ventilation",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_within_5m"
+        },
+        {
+          "text": "People",
+          "icon": "people",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_concerns"
+        },
+        {
+          "text": "Surface",
+          "icon": "surface",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_within_5m"
+        }
+      ]
+    },
     {
-			"question": "Specifically, what concerns you?",
-			"question_id": "q_concerns",
-			"response_options": [{
-					"text": "Density",
-					"icon": "density",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_within_5m"
-				},
-				{
-					"text": "Proximity",
-					"icon": "proximity",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_within_5m"
-				},
-				{
-					"text": "Both",
-					"icon": "both",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_within_5m"
-				}
-			]
-		}
-	]
+      "question": "Specifically, what concerns you?",
+      "question_id": "q_concerns",
+      "response_options": [{
+          "text": "Density",
+          "icon": "density",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_within_5m"
+        },
+        {
+          "text": "Proximity",
+          "icon": "proximity",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_within_5m"
+        },
+        {
+          "text": "Both",
+          "icon": "both",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_within_5m"
+        }
+      ]
+    }
+  ]
 }
