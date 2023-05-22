@@ -309,7 +309,7 @@
     },
     {
       "question": "How do you find this acoustic condition?",
-      "question_id": "q_thermal_condition",
+      "question_id": "q_acoustic_condition",
       "response_options": [{
           "text": "Comfortable",
           "icon": "comfortable_green",
