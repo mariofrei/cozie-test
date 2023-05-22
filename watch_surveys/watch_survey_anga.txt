@@ -173,14 +173,14 @@
         },
         {
           "text": "Yes, heavier",
-          "icon": "yes3",
+          "icon": "clothing_pullover",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_air_quality_condition"
         },
         {
           "text": "Yes, lighter",
-          "icon": "yes3",
+          "icon": "clothing_shirt_sleeveless",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_air_quality_condition"
@@ -458,28 +458,28 @@
       "question_id": "q_activity_category_3",
       "response_options": [{
           "text": "Resting",
-          "icon": "",
+          "icon": "activity_resting",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
           "text": "Sitting",
-          "icon": "",
+          "icon": "activity_sitting",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
           "text": "Standing",
-          "icon": "learn",
+          "icon": "activity_standing",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
           "text": "Exercising",
-          "icon": "other",
+          "icon": "activity_exercising",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
