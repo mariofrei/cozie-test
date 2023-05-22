@@ -103,14 +103,14 @@
           "icon": "group",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_activity_category_2"
+          "next_question_id": "q_activity_category_1"
         },
         {
           "text": "Online group",
           "icon": "online",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_activity_category_2"
+          "next_question_id": "q_activity_category_1"
         }
       ]
     },
