@@ -37,7 +37,7 @@
           "icon": "outdoor-1",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_earphones"
+          "next_question_id": "q_earphones_2"
         },
         {
           "text": "Transportation",
@@ -188,7 +188,7 @@
       ]
     },
     {
-      "question": "How do you find this air quality condition?",
+      "question": "On average, how have you perceived the AIR QUALITY condition?",
       "question_id": "q_air_quality_condition",
       "response_options": [{
           "text": "Comfortable",
@@ -228,7 +228,7 @@
       ]
     },
     {
-      "question": "How do you find this visual condition?",
+      "question": "On average, how have you perceived the VISUAL condition since your last feedback?",
       "question_id": "q_visual_condition",
       "response_options": [{
           "text": "Comfortable",
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "question": "How do you find this thermal condition?",
+      "question": "On average, how have you perceived the THERMAL condition since your last feedback?",
       "question_id": "q_thermal_condition",
       "response_options": [{
           "text": "Comfortable",
@@ -308,8 +308,48 @@
       ]
     },
     {
-      "question": "How do you find this acoustic condition?",
+      "question": "On average, how have you perceived the ACOUSTIC condition since your last feedback?",
       "question_id": "q_acoustic_condition",
+      "response_options": [{
+          "text": "Comfortable",
+          "icon": "comfortable_green",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_general_comfort_condition"
+        },
+        {
+          "text": "Slightly uncomfortable",
+          "icon": "uncomfortable_slightly_yellow",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_general_comfort_condition"
+        },
+        {
+          "text": "Uncomfortable",
+          "icon": "uncomfortable_orange",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_general_comfort_condition"
+        },
+        {
+          "text": "Very uncomfortable",
+          "icon": "uncomfortable_very_red",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_general_comfort_condition"
+        },
+        {
+          "text": "Extremely uncomfortable",
+          "icon": "uncomfortable_extremley_red",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_general_comfort_condition"
+        }
+      ]
+    },
+    {
+      "question": "On average, how have you perceived the GENERAL COMFORT condition since your last feedback?",
+      "question_id": "q_general_comfort_condition",
       "response_options": [{
           "text": "Comfortable",
           "icon": "comfortable_green",
@@ -349,7 +389,33 @@
     },
     {
       "question": "Wearing earphones?",
-      "question_id": "q_earphones",
+      "question_id": "q_earphones_1",
+      "response_options": [{
+          "text": "No earphones",
+          "icon": "no3",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        },
+        {
+          "text": "Earphones",
+          "icon": "yes3",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        },
+        {
+          "text": "Noise cancelling",
+          "icon": "yes3",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        }
+      ]
+    },
+    {
+      "question": "Wearing earphones?",
+      "question_id": "q_earphones_2",
       "response_options": [{
           "text": "No earphones",
           "icon": "no3",
@@ -381,35 +447,35 @@
           "icon": "bus",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_earphones"
+          "next_question_id": "q_earphones_2"
         },
         {
           "text": "Train",
           "icon": "train",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_earphones"
+          "next_question_id": "q_earphones_2"
         },
         {
           "text": "Car",
           "icon": "car",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_earphones"
+          "next_question_id": "q_earphones_2"
         },
         {
           "text": "Taxi",
           "icon": "taxi",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_earphones"
+          "next_question_id": "q_earphones_2"
         },
         {
           "text": "Other",
           "icon": "other",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_earphones"
+          "next_question_id": "q_earphones_2"
         }
       ]
     },
