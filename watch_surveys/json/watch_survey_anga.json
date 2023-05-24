@@ -425,14 +425,14 @@
         },
         {
           "text": "Earphones",
-          "icon": "yes3",
+          "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
           "text": "Noise cancelling",
-          "icon": "yes3",
+          "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
