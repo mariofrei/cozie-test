@@ -56,35 +56,35 @@
           "icon": "personal",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_alone_group"
+          "next_question_id": "q_earphones_1"
         },
         {
           "text": "Small shared",
           "icon": "shared",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_alone_group"
+          "next_question_id": "q_earphones_1"
         },
         {
           "text": "Large open plan",
           "icon": "open-space",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_alone_group"
+          "next_question_id": "q_earphones_1"
         },
         {
           "text": "Cubicles",
           "icon": "cubicles",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_alone_group"
+          "next_question_id": "q_earphones_1"
         },
         {
           "text": "Conference room",
           "icon": "conference-room",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_alone_group"
+          "next_question_id": "q_earphones_1"
         }
       ]
     },
