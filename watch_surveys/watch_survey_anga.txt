@@ -398,8 +398,8 @@
           "next_question_id": "q_alone_group"
         },
         {
-          "text": "On-ear",
-          "icon": "yes2",
+          "text": "XOn-ear",
+          "icon": "yes1",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -413,7 +413,7 @@
         },
         {
           "text": "Noise cancelling",
-          "icon": "yes2",
+          "icon": "yes3",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
