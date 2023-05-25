@@ -398,7 +398,14 @@
           "next_question_id": "q_alone_group"
         },
         {
-          "text": "Earphones",
+          "text": "On-ear",
+          "icon": "yes2",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        },
+        {
+          "text": "In-ear",
           "icon": "yes2",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
