@@ -388,31 +388,38 @@
       ]
     },
     {
-      "question": "Wearing earphones?",
+      "question": "Wearing ear/headphones?",
       "question_id": "q_earphones_1",
       "response_options": [{
-          "text": "No earphones",
+          "text": "No",
           "icon": "no3",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
         },
         {
-          "text": "On-ear",
+          "text": "Yes, earphones",
           "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
         },
         {
-          "text": "In-ear",
+          "text": "Yes, headphones",
           "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
         },
         {
-          "text": "Noise cancelling",
+          "text": "Yes, earphones with noise cnacelling",
+          "icon": "yes",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_alone_group"
+        },
+        {
+          "text": "Yes, headphones with noise cnacelling",
           "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
@@ -421,31 +428,38 @@
       ]
     },
     {
-      "question": "Wearing earphones?",
+      "question": "Wearing ear/headphones?",
       "question_id": "q_earphones_2",
       "response_options": [{
-          "text": "No earphones",
+          "text": "No",
           "icon": "no3",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
-          "text": "On-ear",
+          "text": "Yes, earphones",
           "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
-          "text": "In-ear",
+          "text": "Yes, headphones",
           "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
-          "text": "Noise cancelling",
+          "text": "Yes, earphones with noise cnacelling",
+          "icon": "yes",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_clothing_changed"
+        },
+        {
+          "text": "Yes, headphones with noise cnacelling",
           "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
