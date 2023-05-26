@@ -431,15 +431,22 @@
           "next_question_id": "q_clothing_changed"
         },
         {
-          "text": "Earphones",
-          "icon": "yes2",
+          "text": "On-ear",
+          "icon": "yes",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_clothing_changed"
+        },
+        {
+          "text": "In-ear",
+          "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
           "text": "Noise cancelling",
-          "icon": "yes2",
+          "icon": "yes",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
