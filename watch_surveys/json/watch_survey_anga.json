@@ -399,28 +399,28 @@
         },
         {
           "text": "Yes, earphones",
-          "icon": "yes",
+          "icon": "earphones_in_ear",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
         },
         {
           "text": "Yes, headphones",
-          "icon": "yes",
+          "icon": "earphones_on_ear",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
         },
         {
-          "text": "Yes, earphones with noise cnacelling",
-          "icon": "yes",
+          "text": "Yes, earphones with noise cancelling",
+          "icon": "earphones_in_ear_noise_cancelling",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
         },
         {
-          "text": "Yes, headphones with noise cnacelling",
-          "icon": "yes",
+          "text": "Yes, headphones with noise cancelling",
+          "icon": "earphones_on_ear_noise_cancelling",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -439,28 +439,28 @@
         },
         {
           "text": "Yes, earphones",
-          "icon": "yes",
+          "icon": "earphones_in_ear",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
           "text": "Yes, headphones",
-          "icon": "yes",
+          "icon": "earphones_on_ear",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
           "text": "Yes, earphones with noise cnacelling",
-          "icon": "yes",
+          "icon": "earphones_in_ear_noise_cancelling",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
         },
         {
           "text": "Yes, headphones with noise cnacelling",
-          "icon": "yes",
+          "icon": "earphones_on_ear_noise_cancelling",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
