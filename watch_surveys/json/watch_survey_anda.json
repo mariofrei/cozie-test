@@ -1,6 +1,6 @@
 {
-  "survey_name": "Anga Survey",
-  "survey_id": "anga",
+  "survey_name": "Anda Survey",
+  "survey_id": "anda",
   "survey": [{
       "question": "마리오 씨는 멋있는 연구사입니다 마리오 씨는 멋있는 연구사입니다",
       "question_id": "q_location",
