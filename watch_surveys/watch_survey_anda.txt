@@ -1,0 +1,52 @@
+{
+  "survey_name": "Anga Survey",
+  "survey_id": "anga",
+  "survey": [{
+      "question": "마리오 씨는 멋있는 연구사입니다 마리오 씨는 멋있는 연구사입니다",
+      "question_id": "q_location",
+      "response_options": [{
+          "text": "마리오 씨는 멋있는 연구사입니다",
+          "icon": "indoor-1",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        },
+        {
+          "text": "마리오 씨는 멋있는 연구사입니다",
+          "icon": "classroom",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        },
+        {
+          "text": "마리오 씨는 멋있는 연구사입니다",
+          "icon": "home",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        },
+        {
+          "text": "마리오 씨는 멋있는 연구사입니다",
+          "icon": "other",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        },
+        {
+          "text": "마리오 씨는 멋있는 연구사입니다",
+          "icon": "outdoor-1",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        },
+        {
+          "text": "마리오 씨는 멋있는 연구사입니다",
+          "icon": "transportation",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": ""
+        }
+      ]
+    }
+  ]
+}
