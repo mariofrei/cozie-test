@@ -6,24 +6,24 @@
       "question_id": "q_noise_nearby",
       "response_options": [{
           "text": "None",
-          "icon": "test_transparency",
-          "icon_background_color": "#FF0000",
+          "icon": "text_none_transparent",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_preference"
         },
         {
           "text": "A little",
-          "icon": "test_transparency",
-          "icon_background_color": "#FF0000",
+          "icon": "text_a_little_transparent",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#FFFF00",
           "next_question_id": "q_noise_kind"
         },
         {
           "text": "A lot",
-          "icon": "sun.max.fill",
-          "icon_background_color": "#FF0000",
+          "icon": "text_a_lot_transparent",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": true,
           "sf_symbols_color": "#FFFF00",
           "next_question_id": "q_noise_kind"
