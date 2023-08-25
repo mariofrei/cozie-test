@@ -15,14 +15,14 @@
           "text": "A little",
           "icon": "text_none_transparent",
           "use_sf_symbols": false,
-          "sf_symbols_color": "#000000",
+          "sf_symbols_color": "#FFFF00",
           "next_question_id": "q_noise_kind"
         },
         {
           "text": "A lot",
-          "icon": "a-lot",
+          "icon": "sun.max.fill",
           "use_sf_symbols": false,
-          "sf_symbols_color": "#000000",
+          "sf_symbols_color": "#FFFF00",
           "next_question_id": "q_noise_kind"
         }
       ]
