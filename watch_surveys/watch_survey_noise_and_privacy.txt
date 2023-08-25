@@ -6,7 +6,7 @@
       "question_id": "q_noise_nearby",
       "response_options": [{
           "text": "None",
-          "icon": "none-1",
+          "icon": "text_none",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_preference"
