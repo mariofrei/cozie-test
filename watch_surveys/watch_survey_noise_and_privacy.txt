@@ -7,7 +7,7 @@
       "response_options": [{
           "text": "None",
           "icon": "test_transparency",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_preference"
@@ -15,7 +15,7 @@
         {
           "text": "A little",
           "icon": "test_transparency",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#FFFF00",
           "next_question_id": "q_noise_kind"
@@ -23,7 +23,7 @@
         {
           "text": "A lot",
           "icon": "sun.max.fill",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": true,
           "sf_symbols_color": "#FFFF00",
           "next_question_id": "q_noise_kind"
@@ -36,7 +36,7 @@
       "response_options": [{
           "text": "Talking",
           "icon": "talking",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones"
@@ -44,7 +44,7 @@
         {
           "text": "Traffic",
           "icon": "traffic",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones"
@@ -52,7 +52,7 @@
         {
           "text": "Weather",
           "icon": "weather",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones"
@@ -60,7 +60,7 @@
         {
           "text": "Appliances",
           "icon": "appliances",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones"
@@ -68,7 +68,7 @@
         {
           "text": "Construction",
           "icon": "construction",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones"
@@ -76,7 +76,7 @@
         {
           "text": "Other",
           "icon": "other",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones"
@@ -89,7 +89,7 @@
       "response_options": [{
           "text": "No earphones",
           "icon": "no3",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_preference"
@@ -97,7 +97,7 @@
         {
           "text": "Earphones",
           "icon": "yes4",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_preference"
@@ -105,7 +105,7 @@
         {
           "text": "Noise cancelling",
           "icon": "yes4",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_preference"
@@ -118,7 +118,7 @@
       "response_options": [{
           "text": "Cooler",
           "icon": "prefer-cooler",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_location"
@@ -126,7 +126,7 @@
         {
           "text": "No change",
           "icon": "no-change",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_location"
@@ -134,7 +134,7 @@
         {
           "text": "Warmer",
           "icon": "prefer-warmer",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_location"
@@ -147,7 +147,7 @@
       "response_options": [{
           "text": "Indoor - Office",
           "icon": "indoor-1",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_location_office"
@@ -155,7 +155,7 @@
         {
           "text": "Indoor - Class",
           "icon": "classroom",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -163,7 +163,7 @@
         {
           "text": "Indoor - Home",
           "icon": "home",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -171,7 +171,7 @@
         {
           "text": "Indoor - Other",
           "icon": "other",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -179,7 +179,7 @@
         {
           "text": "Outdoor",
           "icon": "outdoor-1",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -187,7 +187,7 @@
         {
           "text": "Transportation",
           "icon": "transportation",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_location_transport"
@@ -200,7 +200,7 @@
       "response_options": [{
           "text": "Individual",
           "icon": "personal",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -208,7 +208,7 @@
         {
           "text": "Small shared",
           "icon": "shared",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -216,7 +216,7 @@
         {
           "text": "Large open plan",
           "icon": "open-space",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -224,7 +224,7 @@
         {
           "text": "Cubicles",
           "icon": "cubicles",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -232,7 +232,7 @@
         {
           "text": "Conference room",
           "icon": "conference-room",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -245,7 +245,7 @@
       "response_options": [{
           "text": "Bus",
           "icon": "bus",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -253,7 +253,7 @@
         {
           "text": "Train",
           "icon": "train",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -261,7 +261,7 @@
         {
           "text": "Car",
           "icon": "car",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -269,7 +269,7 @@
         {
           "text": "Taxi",
           "icon": "taxi",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -277,7 +277,7 @@
         {
           "text": "Other",
           "icon": "other",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -290,7 +290,7 @@
       "response_options": [{
           "text": "Alone",
           "icon": "alone",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_1"
@@ -298,7 +298,7 @@
         {
           "text": "Group",
           "icon": "group",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_2"
@@ -306,7 +306,7 @@
         {
           "text": "Online group",
           "icon": "online",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_2"
@@ -319,7 +319,7 @@
       "response_options": [{
           "text": "Focus",
           "icon": "focus",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -327,7 +327,7 @@
         {
           "text": "Leisure",
           "icon": "leisure",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -335,7 +335,7 @@
         {
           "text": "Other",
           "icon": "other",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -348,7 +348,7 @@
       "response_options": [{
           "text": "Socialize",
           "icon": "socialize",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -356,7 +356,7 @@
         {
           "text": "Collaborate",
           "icon": "collaborate",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -364,7 +364,7 @@
         {
           "text": "Learn",
           "icon": "learn",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -372,7 +372,7 @@
         {
           "text": "Other",
           "icon": "other",
-          "icon_background_color": "#FF0000"
+          "icon_background_color": "#FF0000",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
