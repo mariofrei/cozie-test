@@ -21,7 +21,7 @@
         {
           "text": "A lot",
           "icon": "sun.max.fill",
-          "use_sf_symbols": false,
+          "use_sf_symbols": true,
           "sf_symbols_color": "#FFFF00",
           "next_question_id": "q_noise_kind"
         }
