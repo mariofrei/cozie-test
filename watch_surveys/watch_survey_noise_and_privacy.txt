@@ -6,14 +6,14 @@
       "question_id": "q_noise_nearby",
       "response_options": [{
           "text": "None",
-          "icon": "text_none_transparent",
+          "icon": "test_transparency",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_preference"
         },
         {
           "text": "A little",
-          "icon": "text_none_transparent",
+          "icon": "test_transparency",
           "use_sf_symbols": false,
           "sf_symbols_color": "#FFFF00",
           "next_question_id": "q_noise_kind"
