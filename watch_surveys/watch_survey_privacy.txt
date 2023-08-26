@@ -26,13 +26,13 @@
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
-          "next_question_id": "q_activity_3"
+          "next_question_id": "q_distracting"
         }
       ]
     },
     {
       "question": "Category of activity",
-      "question_id": "q_activity_1",
+      "question_id": "q_activity_2",
       "response_options": [{
           "text": "Socialize",
           "icon": "person_2_dialog",
@@ -111,7 +111,7 @@
     },
     {
       "question": "Category of activity?",
-      "question_id": "q_activity_2",
+      "question_id": "q_activity_1",
       "response_options": [{
           "text": "Focus",
           "icon": "person_laptop",
