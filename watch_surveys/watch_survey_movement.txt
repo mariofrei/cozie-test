@@ -242,7 +242,7 @@
         },
         {
           "text": "Never",
-          "icon": "never",
+          "icon": "x",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
