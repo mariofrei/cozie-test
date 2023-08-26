@@ -135,7 +135,7 @@
       "question_id": "q_more_privacy",
       "response_options": [{
           "text": "Yes",
-          "icon": "text_yes",
+          "icon": "thumbs_up",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
@@ -143,7 +143,7 @@
         },
         {
           "text": "No",
-          "icon": "text_no",
+          "icon": "thumbs_down",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
