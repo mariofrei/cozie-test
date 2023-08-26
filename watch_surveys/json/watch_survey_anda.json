@@ -6,42 +6,48 @@
       "question_id": "q_location",
       "response_options": [{
           "text": "마리오 씨는 멋있는 연구사입니다",
-          "icon": "indoor-1",
+          "icon": "person_laptop",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
         },
         {
           "text": "마리오 씨는 멋있는 연구사입니다",
-          "icon": "classroom",
+          "icon": "space_classroom",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
         },
         {
           "text": "마리오 씨는 멋있는 연구사입니다",
-          "icon": "home",
+          "icon": "building_house",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
         },
         {
           "text": "마리오 씨는 멋있는 연구사입니다",
-          "icon": "other",
+          "icon": "text_other",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
         },
         {
           "text": "마리오 씨는 멋있는 연구사입니다",
-          "icon": "outdoor-1",
+          "icon": "person_walking",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
         },
         {
           "text": "마리오 씨는 멋있는 연구사입니다",
-          "icon": "transportation",
+          "icon": "vehicle_taxi_and_bus",
+          "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
