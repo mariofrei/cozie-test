@@ -35,7 +35,7 @@
       "question_id": "q_noise_kind",
       "response_options": [{
           "text": "Talking",
-          "icon": "person_2_dialog_3",
+          "icon": "person_2_dialog_2",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
@@ -305,7 +305,7 @@
         },
         {
           "text": "Online group",
-          "icon": "laptop_meeting",
+          "icon": "laptop_meeting_online",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
