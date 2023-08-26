@@ -147,7 +147,7 @@
         },
         {
           "text": "Fastest",
-          "icon": "stop_watch,
+          "icon": "stop_watch",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
