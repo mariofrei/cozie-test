@@ -289,6 +289,14 @@
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_stairs_why_2"
+        },
+        {
+          "text": "No stairs",
+          "icon": "stairs_none",
+          "icon_background_color": "#F1A62E",
+          "use_sf_symbols": false,
+          "sf_symbols_color": "#000000",
+          "next_question_id": "q_stairs_why_2"
         }
       ]
     },
