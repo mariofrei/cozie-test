@@ -5,7 +5,7 @@
       "question": "This is the first question:",
       "question_id": "q_first_question",
       "response_options": [{
-					"text": "1. *response* option",
+					"text": "The following formatting can be done:\n *Italics*, **Bold**, ~Strikethrough~, `Code`, [Link](https://www.google.com), \n\nLinebreak",
 					"icon": "snowflake",
 					"icon_background_color": "#0000FF",
 					"use_sf_symbols": false,
