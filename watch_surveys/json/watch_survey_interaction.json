@@ -27,7 +27,7 @@
 			"question_id": "q_whom",
 			"response_options": [{
 					"text": "Supervisor",
-					"icon": "person_2_dialog_4_2",
+					"icon": "person_2_dialog_4",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",

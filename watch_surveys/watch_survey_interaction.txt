@@ -27,7 +27,7 @@
 			"question_id": "q_whom",
 			"response_options": [{
 					"text": "Supervisor",
-					"icon": "person_2_dialog_4_2",
+					"icon": "person_2_dialog_4",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -140,7 +140,7 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": "q_value"
-				},
+				}
 			]
 		},
 		{
@@ -208,7 +208,7 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": "q_initiation"
-				},
+				}
 			]
 		},
 		{
@@ -314,7 +314,7 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": ""
-				},
+				}
 			]
 		},
 		{
@@ -360,8 +360,8 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": ""
-				},
+				}
 			]
-		},
+		}
   ]
 }
