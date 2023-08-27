@@ -140,7 +140,7 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": "q_value"
-				},
+				}
 			]
 		},
 		{
@@ -208,7 +208,7 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": "q_initiation"
-				},
+				}
 			]
 		},
 		{
@@ -314,7 +314,7 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": ""
-				},
+				}
 			]
 		},
 		{
@@ -360,8 +360,8 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": ""
-				},
+				}
 			]
-		},
+		}
   ]
 }
