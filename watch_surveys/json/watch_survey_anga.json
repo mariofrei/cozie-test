@@ -7,6 +7,7 @@
       "response_options": [{
           "text": "Indoor - Office",
           "icon": "indoor-1",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_location_office"
@@ -14,6 +15,7 @@
         {
           "text": "Indoor - Class",
           "icon": "classroom",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_2"
@@ -21,6 +23,7 @@
         {
           "text": "Indoor - Home",
           "icon": "home",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_3"
@@ -28,6 +31,7 @@
         {
           "text": "Indoor - Other",
           "icon": "other",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_3"
@@ -35,6 +39,7 @@
         {
           "text": "Outdoor",
           "icon": "outdoor-1",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_2"
@@ -42,6 +47,7 @@
         {
           "text": "Transportation",
           "icon": "transportation",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_location_transport"
@@ -54,6 +60,7 @@
       "response_options": [{
           "text": "Individual",
           "icon": "personal",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_1"
@@ -61,6 +68,7 @@
         {
           "text": "Small shared",
           "icon": "shared",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_1"
@@ -68,6 +76,7 @@
         {
           "text": "Large open plan",
           "icon": "open-space",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_1"
@@ -75,6 +84,7 @@
         {
           "text": "Cubicles",
           "icon": "cubicles",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_1"
@@ -82,6 +92,7 @@
         {
           "text": "Conference room",
           "icon": "conference-room",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_1"
@@ -94,6 +105,7 @@
       "response_options": [{
           "text": "Alone",
           "icon": "alone",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_1"
@@ -101,6 +113,7 @@
         {
           "text": "Group",
           "icon": "group",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_1"
@@ -108,6 +121,7 @@
         {
           "text": "Online group",
           "icon": "online",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_activity_category_1"
@@ -120,6 +134,7 @@
       "response_options": [{
           "text": "Focus",
           "icon": "focus",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -127,6 +142,7 @@
         {
           "text": "Leisure",
           "icon": "leisure",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -134,6 +150,7 @@
         {
           "text": "Socialize",
           "icon": "socialize",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -141,6 +158,7 @@
         {
           "text": "Collaborate",
           "icon": "collaborate",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -148,6 +166,7 @@
         {
           "text": "Learn",
           "icon": "learn",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -155,6 +174,7 @@
         {
           "text": "Other",
           "icon": "other",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -167,6 +187,7 @@
       "response_options": [{
           "text": "No",
           "icon": "no3",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_air_quality_condition"
@@ -174,6 +195,7 @@
         {
           "text": "Yes, heavier",
           "icon": "clothing_pullover",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_air_quality_condition"
@@ -181,6 +203,7 @@
         {
           "text": "Yes, lighter",
           "icon": "clothing_shirt_sleeveless",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_air_quality_condition"
@@ -193,6 +216,7 @@
       "response_options": [{
           "text": "Comfortable",
           "icon": "comfortable_green",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_visual_condition"
@@ -200,6 +224,7 @@
         {
           "text": "Slightly uncomfortable",
           "icon": "uncomfortable_slightly_yellow",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_visual_condition"
@@ -207,6 +232,7 @@
         {
           "text": "Uncomfortable",
           "icon": "uncomfortable_orange",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_visual_condition"
@@ -214,6 +240,7 @@
         {
           "text": "Very uncomfortable",
           "icon": "uncomfortable_very_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_visual_condition"
@@ -221,6 +248,7 @@
         {
           "text": "Extremely uncomfortable",
           "icon": "uncomfortable_extremley_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_visual_condition"
@@ -233,6 +261,7 @@
       "response_options": [{
           "text": "Comfortable",
           "icon": "comfortable_green",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_condition"
@@ -240,6 +269,7 @@
         {
           "text": "Slightly uncomfortable",
           "icon": "uncomfortable_slightly_yellow",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_condition"
@@ -247,6 +277,7 @@
         {
           "text": "Uncomfortable",
           "icon": "uncomfortable_orange",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_condition"
@@ -254,6 +285,7 @@
         {
           "text": "Very uncomfortable",
           "icon": "uncomfortable_very_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_condition"
@@ -261,6 +293,7 @@
         {
           "text": "Extremely uncomfortable",
           "icon": "uncomfortable_extremley_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_thermal_condition"
@@ -273,6 +306,7 @@
       "response_options": [{
           "text": "Comfortable",
           "icon": "comfortable_green",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_acoustic_condition"
@@ -280,6 +314,7 @@
         {
           "text": "Slightly uncomfortable",
           "icon": "uncomfortable_slightly_yellow",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_acoustic_condition"
@@ -287,6 +322,7 @@
         {
           "text": "Uncomfortable",
           "icon": "uncomfortable_orange",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_acoustic_condition"
@@ -294,6 +330,7 @@
         {
           "text": "Very uncomfortable",
           "icon": "uncomfortable_very_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_acoustic_condition"
@@ -301,6 +338,7 @@
         {
           "text": "Extremely uncomfortable",
           "icon": "uncomfortable_extremley_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_acoustic_condition"
@@ -313,6 +351,7 @@
       "response_options": [{
           "text": "Comfortable",
           "icon": "comfortable_green",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_general_comfort_condition"
@@ -320,6 +359,7 @@
         {
           "text": "Slightly uncomfortable",
           "icon": "uncomfortable_slightly_yellow",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_general_comfort_condition"
@@ -327,6 +367,7 @@
         {
           "text": "Uncomfortable",
           "icon": "uncomfortable_orange",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_general_comfort_condition"
@@ -334,6 +375,7 @@
         {
           "text": "Very uncomfortable",
           "icon": "uncomfortable_very_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_general_comfort_condition"
@@ -341,6 +383,7 @@
         {
           "text": "Extremely uncomfortable",
           "icon": "uncomfortable_extremley_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_general_comfort_condition"
@@ -353,6 +396,7 @@
       "response_options": [{
           "text": "Comfortable",
           "icon": "comfortable_green",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -360,6 +404,7 @@
         {
           "text": "Slightly uncomfortable",
           "icon": "uncomfortable_slightly_yellow",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -367,6 +412,7 @@
         {
           "text": "Uncomfortable",
           "icon": "uncomfortable_orange",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -374,6 +420,7 @@
         {
           "text": "Very uncomfortable",
           "icon": "uncomfortable_very_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -381,6 +428,7 @@
         {
           "text": "Extremely uncomfortable",
           "icon": "uncomfortable_extremley_red",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": ""
@@ -393,6 +441,7 @@
       "response_options": [{
           "text": "No",
           "icon": "no3",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -400,6 +449,7 @@
         {
           "text": "Yes, earphones",
           "icon": "earphones_in_ear",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -407,6 +457,7 @@
         {
           "text": "Yes, headphones",
           "icon": "earphones_on_ear",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -414,6 +465,7 @@
         {
           "text": "Yes, earphones with noise cancelling",
           "icon": "earphones_in_ear_noise_cancelling",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -421,6 +473,7 @@
         {
           "text": "Yes, headphones with noise cancelling",
           "icon": "earphones_on_ear_noise_cancelling",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_alone_group"
@@ -433,6 +486,7 @@
       "response_options": [{
           "text": "No",
           "icon": "no3",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -440,6 +494,7 @@
         {
           "text": "Yes, earphones",
           "icon": "earphones_in_ear",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -447,6 +502,7 @@
         {
           "text": "Yes, headphones",
           "icon": "earphones_on_ear",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -454,6 +510,7 @@
         {
           "text": "Yes, earphones with noise cnacelling",
           "icon": "earphones_in_ear_noise_cancelling",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -461,6 +518,7 @@
         {
           "text": "Yes, headphones with noise cnacelling",
           "icon": "earphones_on_ear_noise_cancelling",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -473,6 +531,7 @@
       "response_options": [{
           "text": "Bus",
           "icon": "bus",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_2"
@@ -480,6 +539,7 @@
         {
           "text": "Train",
           "icon": "train",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_2"
@@ -487,6 +547,7 @@
         {
           "text": "Car",
           "icon": "car",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_2"
@@ -494,6 +555,7 @@
         {
           "text": "Taxi",
           "icon": "taxi",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_2"
@@ -501,6 +563,7 @@
         {
           "text": "Other",
           "icon": "other",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_earphones_2"
@@ -513,6 +576,7 @@
       "response_options": [{
           "text": "Focus",
           "icon": "focus",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -520,6 +584,7 @@
         {
           "text": "Collaborate",
           "icon": "collaborate",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -527,6 +592,7 @@
         {
           "text": "Learn",
           "icon": "learn",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -534,6 +600,7 @@
         {
           "text": "Other",
           "icon": "other",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -541,6 +608,7 @@
         {
           "text": "Bonus for testing",
           "icon": "other",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -553,6 +621,7 @@
       "response_options": [{
           "text": "Resting",
           "icon": "activity_resting",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -560,6 +629,7 @@
         {
           "text": "Sitting",
           "icon": "activity_sitting",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -567,6 +637,7 @@
         {
           "text": "Standing",
           "icon": "activity_standing",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
@@ -574,6 +645,7 @@
         {
           "text": "Exercising",
           "icon": "activity_exercising",
+					"icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
           "next_question_id": "q_clothing_changed"
