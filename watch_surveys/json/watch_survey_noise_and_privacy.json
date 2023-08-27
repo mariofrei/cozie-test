@@ -35,7 +35,7 @@
       "question_id": "q_noise_kind",
       "response_options": [{
           "text": "Talking",
-          "icon": "person_2_dialog_2",
+          "icon": "person_2_dialog_4_2",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
@@ -215,7 +215,7 @@
         },
         {
           "text": "Large open plan",
-          "icon": "person_laptop_2",
+          "icon": "person_group_2_office_work",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
@@ -347,7 +347,7 @@
       "question_id": "q_activity_category_2",
       "response_options": [{
           "text": "Socialize",
-          "icon": "person_2_dialog",
+          "icon": "person_2_dialog_4",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
