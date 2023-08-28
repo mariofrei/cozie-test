@@ -247,7 +247,7 @@
         },
         {
           "text": "Yes, lighter",
-          "icon": "clothing_shirt_sleeveless",
+          "icon": "clothes_shirt_sleeveless",
           "icon_background_color": "#F1A62E",
           "use_sf_symbols": false,
           "sf_symbols_color": "#000000",
