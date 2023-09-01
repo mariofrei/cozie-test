@@ -3,59 +3,6 @@
 	"survey_id": "arda_survey_ko",
 	"survey": [
 		{
-			"question": "지난 한 시간 동안 열쾌적성을 위해 취한 온도적응조치가 있습니까?",
-			"question_id": "q_adaptive_comfort_ko",
-			"response_options": [{
-					"text": "네, 옷",
-					"icon": "clo-medium",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_clothing_ko"
-				},
-				{
-					"text": "네, 장소",
-					"icon": "location",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_clothing_ko"
-				},
-				{
-					"text": "네, 온도 조절기",
-					"icon": "thermometer",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_clothing_ko"
-				},
-				{
-					"text": "네, 선풍기",
-					"icon": "fan",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_clothing_ko"
-				},
-				{
-					"text": "네, 기타",
-					"icon": "other",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_clothing_ko"
-				},
-				{
-					"text": "아니요",
-					"icon": "no",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_clothing_ko"
-				}
-			]
-		},
-		{
 			"question": "어떤 옷을 입고 계십니까?",
 			"question_id": "q_clothing_ko",
 			"response_options": [{
