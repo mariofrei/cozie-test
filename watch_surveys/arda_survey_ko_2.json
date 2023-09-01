@@ -1,59 +1,7 @@
 {
 	"survey_name": "Arda survey - Korean",
 	"survey_id": "arda_survey_ko",
-	"survey": [{
-			"question": "지난 한 시간 동안 다른 활동을 하셨습니까?",
-			"question_id": "q_activity_change_outdoors_ko",
-			"response_options": [{
-					"text": "네, 근무",
-					"icon": "working",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_location_change_ko"
-				},
-				{
-					"text": "네, 공부",
-					"icon": "meal",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_location_change_ko"
-				},
-				{
-					"text": "네, 식사",
-					"icon": "leisure",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_location_change_ko"
-				},
-				{
-					"text": "네, 여가",
-					"icon": "leisure",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_location_change_ko"
-				},
-				{
-					"text": "네, 기타",
-					"icon": "other",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_location_change_ko"
-				},
-				{
-					"text": "아니요",
-					"icon": "no",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_location_change_ko"
-				}
-			]
-		},
+	"survey": [
 		{
 			"question": "지난 한 시간 동안 다른 장소에 계셨습니까? 얼마나 계셨습니까?",
 			"question_id": "q_location_change_ko",
