@@ -3,51 +3,6 @@
 	"survey_id": "arda_survey_ko",
 	"survey": [
 		{
-			"question": "지난 한 시간 동안 다른 장소에 계셨습니까? 얼마나 계셨습니까?",
-			"question_id": "q_location_change_ko",
-			"response_options": [{
-					"text": "아니요",
-					"icon": "no",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_adaptive_comfort_ko"
-				},
-				{
-					"text": "네, 15분 미만",
-					"icon": "less_than_15",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_adaptive_comfort_ko"
-				},
-				{
-					"text": "네, 30분 미만",
-					"icon": "less_than_30",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_adaptive_comfort_ko"
-				},
-				{
-					"text": "네, 45분 미만",
-					"icon": "less_than_45",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_adaptive_comfort_ko"
-				},
-				{
-					"text": "네, 45분 이상",
-					"icon": "less_than_45",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_adaptive_comfort_ko"
-				}
-			]
-		},
-		{
 			"question": "지난 한 시간 동안 열쾌적성을 위해 취한 온도적응조치가 있습니까?",
 			"question_id": "q_adaptive_comfort_ko",
 			"response_options": [{
