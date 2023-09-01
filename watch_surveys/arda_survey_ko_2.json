@@ -11,7 +11,7 @@
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
-					"next_question_id": "end_ko"
+					"next_question_id": ""
 				},
 				{
 					"text": "보통이다",
@@ -19,7 +19,7 @@
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
-					"next_question_id": "end_ko"
+					"next_question_id": ""
 				},
 				{
 					"text": "부정적이다",
@@ -27,19 +27,6 @@
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
-					"next_question_id": "end_ko"
-				}
-			]
-		},
-		{
-			"question": "감사합니다!!!",
-			"question_id": "end_ko",
-			"response_options": [{
-					"text": "설문 제출",
-					"icon": "submit",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": true,
-					"sf_symbols_color": "#0000FF",
 					"next_question_id": ""
 				}
 			]
