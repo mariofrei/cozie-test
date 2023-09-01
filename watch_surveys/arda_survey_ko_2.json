@@ -3,35 +3,6 @@
 	"survey_id": "arda_survey_ko",
 	"survey": [
 		{
-			"question": "열쾌적성은 어땠으면 좋겠습니까?",
-			"question_id": "q_thermal_ko",
-			"response_options": [{
-					"text": "더 시원하게",
-					"icon": "tp-cooler",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_mood_ko"
-				},
-				{
-					"text": "지금 처럼",
-					"icon": "comfortable",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_mood_ko"
-				},
-				{
-					"text": "더 따뜻하게",
-					"icon": "tp-warmer",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": false,
-					"sf_symbols_color": "#000000",
-					"next_question_id": "q_mood_ko"
-				}
-			]
-		},
-		{
 			"question": "기분이 어떻습니까",
 			"question_id": "q_mood_ko",
 			"response_options": [{
@@ -66,6 +37,7 @@
 			"response_options": [{
 					"text": "설문 제출",
 					"icon": "submit",
+					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": true,
 					"sf_symbols_color": "#0000FF",
 					"next_question_id": ""

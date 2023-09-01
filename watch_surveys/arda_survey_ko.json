@@ -756,6 +756,7 @@
 			"response_options": [{
 					"text": "설문 제출",
 					"icon": "submit",
+					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": true,
 					"sf_symbols_color": "#0000FF",
 					"next_question_id": ""
