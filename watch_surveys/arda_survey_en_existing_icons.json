@@ -14,7 +14,7 @@
 				},
 				{
 					"text": "Outdoors",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -88,7 +88,7 @@
 				},
 				{
 					"text": "Sitting outside",
-					"icon": "sitting-outside",
+					"icon": "person_bus_stop",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -96,7 +96,7 @@
 				},
 				{
 					"text": "Spending time outdoors",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -186,7 +186,7 @@
 				},
 				{
 					"text": "Classroom",
-					"icon": "classroom",
+					"icon": "space_classroom_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -223,7 +223,7 @@
 				},
 				{
 					"text": "On campus",
-					"icon": "on_campus",
+					"icon": "building_university",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -231,7 +231,7 @@
 				},
 				{
 					"text": "Off campus",
-					"icon": "off_campus",
+					"icon": "city_seoul",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -260,7 +260,7 @@
 				},
 				{
 					"text": "On campus",
-					"icon": "on_campus",
+					"icon": "building_university",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -268,7 +268,7 @@
 				},
 				{
 					"text": "Off campus",
-					"icon": "off_campus",
+					"icon": "city_seoul",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -313,7 +313,7 @@
 				},
 				{
 					"text": "Yes, outdoors",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -366,7 +366,7 @@
 				},
 				{
 					"text": "Yes, outdoors",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -419,7 +419,7 @@
 				},
 				{
 					"text": "Yes, outdoors",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -472,7 +472,7 @@
 				},
 				{
 					"text": "Yes, outdoors",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -556,7 +556,7 @@
 			"question_id": "q_location_change",
 			"response_options": [{
 					"text": "No, I did not change location",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -564,7 +564,7 @@
 				},
 				{
 					"text": "Yes, less than 15 min",
-					"icon": "less_than_15",
+					"icon": "smaller_than_15",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -572,7 +572,7 @@
 				},
 				{
 					"text": "Yes, less than 30 min",
-					"icon": "less_than_30",
+					"icon": "smaller_than_30",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -580,7 +580,7 @@
 				},
 				{
 					"text": "Yes, less than 45 min",
-					"icon": "less_than_45",
+					"icon": "smaller_than_45",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -588,7 +588,7 @@
 				},
 				{
 					"text": "Yes, more than 45 min",
-					"icon": "less_than_45",
+					"icon": "smaller_than_45",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -601,7 +601,7 @@
 			"question_id": "q_adaptive_comfort",
 			"response_options": [{
 					"text": "Yes, clothing",
-					"icon": "clo-medium",
+					"icon": "clothes_shirt_pants_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -670,7 +670,7 @@
 				},
 				{
 					"text": "Medium",
-					"icon": "clo-medium-new",
+					"icon": "clothes_shirt_pants_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -728,7 +728,7 @@
 			"question_id": "q_mood",
 			"response_options": [{
 					"text": "Positive",
-					"icon": "happy",
+					"icon": "emoticon_happy_4",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",

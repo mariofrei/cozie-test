@@ -14,7 +14,7 @@
 				},
 				{
 					"text": "실외",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -96,7 +96,7 @@
 				},
 				{
 					"text": "밖에서 시간을 보낸다",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -186,7 +186,7 @@
 				},
 				{
 					"text": "교실",
-					"icon": "classroom",
+					"icon": "space_classroom_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -313,7 +313,7 @@
 				},
 				{
 					"text": "네, 야외 활동",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -366,7 +366,7 @@
 				},
 				{
 					"text": "네, 야외 활동",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -419,7 +419,7 @@
 				},
 				{
 					"text": "네, 야외 활동",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -472,7 +472,7 @@
 				},
 				{
 					"text": "네, 야외 활동",
-					"icon": "loc-outdoor",
+					"icon": "space_outdoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -554,7 +554,7 @@
 			"question_id": "q_location_change_ko",
 			"response_options": [{
 					"text": "아니요",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -562,7 +562,7 @@
 				},
 				{
 					"text": "네, 15분 미만",
-					"icon": "less_than_15",
+					"icon": "smaller_than_15",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -570,7 +570,7 @@
 				},
 				{
 					"text": "네, 30분 미만",
-					"icon": "less_than_30",
+					"icon": "smaller_than_30",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -578,7 +578,7 @@
 				},
 				{
 					"text": "네, 45분 미만",
-					"icon": "less_than_45",
+					"icon": "smaller_than_45",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -586,7 +586,7 @@
 				},
 				{
 					"text": "네, 45분 이상",
-					"icon": "less_than_45",
+					"icon": "greater_than_45",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -599,7 +599,7 @@
 			"question_id": "q_adaptive_comfort_ko",
 			"response_options": [{
 					"text": "네, 옷",
-					"icon": "clo-medium",
+					"icon": "clothes_shirt_pants_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -668,7 +668,7 @@
 				},
 				{
 					"text": "보통이다",
-					"icon": "clo-medium-new",
+					"icon": "clothes_shirt_pants_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -726,7 +726,7 @@
 			"question_id": "q_mood_ko",
 			"response_options": [{
 					"text": "긍정적이다",
-					"icon": "happy",
+					"icon": "emoticon_happy_4",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
