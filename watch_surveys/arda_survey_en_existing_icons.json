@@ -72,7 +72,7 @@
 			"question_id": "q_activity_outdoors",
 			"response_options": [{
 					"text": "Walking somewhere",
-					"icon": "outdoor-1",
+					"icon": "person_walking_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -194,7 +194,7 @@
 				},
 				{
 					"text": "Café",
-					"icon": "cafe",
+					"icon": "cup_hot",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",

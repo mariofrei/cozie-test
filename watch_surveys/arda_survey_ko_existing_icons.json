@@ -72,7 +72,7 @@
 			"question_id": "q_activity_outdoors_ko",
 			"response_options": [{
 					"text": "어디론가 걸어간다",
-					"icon": "outdoor-1",
+					"icon": "person_walking2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -149,7 +149,7 @@
 				},
 				{
 					"text": "카페",
-					"icon": "cafe",
+					"icon": "cup_hot",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
