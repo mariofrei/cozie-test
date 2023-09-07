@@ -587,7 +587,7 @@
 				},
 				{
 					"text": "Yes, more than 45 min",
-					"icon": "text_smaller_than_45",
+					"icon": "text_greater_than_45",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
