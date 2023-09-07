@@ -6,7 +6,7 @@
 			"question_id": "q_location",
 			"response_options": [{
 					"text": "Indoors",
-					"icon": "loc-indoor",
+					"icon": "space_indoor",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -117,7 +117,7 @@
 			"question_id": "q_location_working",
 			"response_options": [{
 					"text": "Private workspace",
-					"icon": "focus-privacy",
+					"icon": "person_laptop",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -149,7 +149,7 @@
 				},
 				{
 					"text": "Café",
-					"icon": "cafe",
+					"icon": "cup_hot",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -342,7 +342,7 @@
 			"question_id": "q_activity_change_studying",
 			"response_options": [{
 					"text": "Yes, working",
-					"icon": "focus-privacy",
+					"icon": "person_laptop",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -395,7 +395,7 @@
 			"question_id": "q_activity_change_meal",
 			"response_options": [{
 					"text": "Yes, working",
-					"icon": "focus-privacy",
+					"icon": "person_laptop",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -448,7 +448,7 @@
 			"question_id": "q_activity_change_leisure",
 			"response_options": [{
 					"text": "Yes, working",
-					"icon": "focus-privacy",
+					"icon": "person_laptop",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -495,14 +495,13 @@
 					"next_question_id": "q_location_change"
 				}
 			]
-
 		},
 		{
 			"question": "Did you change your activity in the last hour?",
 			"question_id": "q_activity_change_outdoors",
 			"response_options": [{
 					"text": "Yes, working",
-					"icon": "focus-privacy",
+					"icon": "person_laptop",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -564,7 +563,7 @@
 				},
 				{
 					"text": "Yes, less than 15 min",
-					"icon": "smaller_than_15",
+					"icon": "text_smaller_than_15",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -572,7 +571,7 @@
 				},
 				{
 					"text": "Yes, less than 30 min",
-					"icon": "smaller_than_30",
+					"icon": "text_smaller_than_30",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -580,7 +579,7 @@
 				},
 				{
 					"text": "Yes, less than 45 min",
-					"icon": "smaller_than_45",
+					"icon": "text_smaller_than_45",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -588,7 +587,7 @@
 				},
 				{
 					"text": "Yes, more than 45 min",
-					"icon": "smaller_than_45",
+					"icon": "text_smaller_than_45",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -749,19 +748,6 @@
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
 					"next_question_id": "end"
-				}
-			]
-		},
-		{
-			"question": "Thank you!!!",
-			"question_id": "end",
-			"response_options": [{
-					"text": "Submit survey",
-					"icon": "submit",
-					"icon_background_color": "#F1A62E",
-					"use_sf_symbols": true,
-					"sf_symbols_color": "#0000FF",
-					"next_question_id": ""
 				}
 			]
 		}
