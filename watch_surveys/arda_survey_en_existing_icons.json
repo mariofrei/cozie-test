@@ -43,7 +43,7 @@
 				},
 				{
 					"text": "Having a meal",
-					"icon": "food_and_beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -297,7 +297,7 @@
 				},
 				{
 					"text": "Yes, having a meal",
-					"icon": "food-and-beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -329,7 +329,7 @@
 				},
 				{
 					"text": "No",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -350,7 +350,7 @@
 				},
 				{
 					"text": "Yes, having a meal",
-					"icon": "food-and-beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -382,7 +382,7 @@
 				},
 				{
 					"text": "No",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -435,7 +435,7 @@
 				},
 				{
 					"text": "No",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -464,7 +464,7 @@
 				},
 				{
 					"text": "Yes, having a meal",
-					"icon": "food-and-beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -488,7 +488,7 @@
 				},
 				{
 					"text": "No",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -517,7 +517,7 @@
 				},
 				{
 					"text": "Yes, having a meal",
-					"icon": "food-and-beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -541,7 +541,7 @@
 				},
 				{
 					"text": "No",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -640,7 +640,7 @@
 				},
 				{
 					"text": "No",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -661,7 +661,7 @@
 				},
 				{
 					"text": "Light",
-					"icon": "clothes_shirt_pants_no_license",
+					"icon": "clothes_shirt_pants",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",

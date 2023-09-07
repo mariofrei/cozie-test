@@ -43,7 +43,7 @@
 				},
 				{
 					"text": "식사한다",
-					"icon": "food_and_beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -297,7 +297,7 @@
 				},
 				{
 					"text": "네, 식사",
-					"icon": "food-and-beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -329,7 +329,7 @@
 				},
 				{
 					"text": "아니요",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -350,7 +350,7 @@
 				},
 				{
 					"text": "네, 식사",
-					"icon": "food-and-beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -382,7 +382,7 @@
 				},
 				{
 					"text": "아니요",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -435,7 +435,7 @@
 				},
 				{
 					"text": "아니요",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -464,7 +464,7 @@
 				},
 				{
 					"text": "네, 식사",
-					"icon": "food-and-beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -488,7 +488,7 @@
 				},
 				{
 					"text": "아니요",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -509,7 +509,7 @@
 				},
 				{
 					"text": "네, 공부",
-					"icon": "food-and-beverage",
+					"icon": "cutlery",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -541,7 +541,7 @@
 				},
 				{
 					"text": "아니요",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -639,7 +639,7 @@
 				},
 				{
 					"text": "아니요",
-					"icon": "no3",
+					"icon": "text_x_2",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
@@ -660,7 +660,7 @@
 				},
 				{
 					"text": "가볍다",
-					"icon": "clothes_shirt_pants_no_license",
+					"icon": "clothes_shirt_pants",
 					"icon_background_color": "#F1A62E",
 					"use_sf_symbols": false,
 					"sf_symbols_color": "#000000",
