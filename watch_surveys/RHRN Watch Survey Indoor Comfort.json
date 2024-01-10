@@ -263,14 +263,6 @@
                   "next_question_id":"thank_you"
                }
             ]
-         },
-	 {
-            "message":"Thank you for your submission!",
-            "message_id":"thank_you",
-            "icon":"check_mark",
-            "icon_background_color":"#8FD14F",
-            "use_sf_symbols":false,
-            "sf_symbols_color":"#000000"
          }
       ]
    }
