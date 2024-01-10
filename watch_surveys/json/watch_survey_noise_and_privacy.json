@@ -1,10 +1,12 @@
 {
   "survey_name": "Noise and privacy",
   "survey_id": "noise_and_privacy",
-  "survey": [{
+  "survey": [
+    {
       "question": "Noise distractions nearby? (without earphones)",
       "question_id": "q_noise_nearby",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "None",
           "icon": "text_none",
           "icon_background_color": "#F1A62E",
@@ -33,7 +35,8 @@
     {
       "question": "What kind of noise?",
       "question_id": "q_noise_kind",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "Talking",
           "icon": "person_2_dialog_4_2",
           "icon_background_color": "#F1A62E",
@@ -86,7 +89,8 @@
     {
       "question": "Wearing earphones?",
       "question_id": "q_earphones",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "No earphones",
           "icon": "text_no",
           "icon_background_color": "#F1A62E",
@@ -115,7 +119,8 @@
     {
       "question": "Thermally, what do you prefer now?",
       "question_id": "q_thermal_preference",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "Cooler",
           "icon": "snowflake",
           "icon_background_color": "#F1A62E",
@@ -144,7 +149,8 @@
     {
       "question": "Where are you?",
       "question_id": "q_location",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "Indoor - Office",
           "icon": "person_laptop",
           "icon_background_color": "#F1A62E",
@@ -197,7 +203,8 @@
     {
       "question": "What kind of office?",
       "question_id": "q_location_office",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "Individual",
           "icon": "person",
           "icon_background_color": "#F1A62E",
@@ -242,7 +249,8 @@
     {
       "question": "What kind of transport?",
       "question_id": "q_location_transport",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "Bus",
           "icon": "vehicle_bus",
           "icon_background_color": "#F1A62E",
@@ -287,7 +295,8 @@
     {
       "question": "Alone or in a group?",
       "question_id": "q_alone_group",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "Alone",
           "icon": "person_1",
           "icon_background_color": "#F1A62E",
@@ -316,7 +325,8 @@
     {
       "question": "Category of activity?",
       "question_id": "q_activity_category_1",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "Focus",
           "icon": "person_laptop",
           "icon_background_color": "#F1A62E",
@@ -345,7 +355,8 @@
     {
       "question": "Category of activity?",
       "question_id": "q_activity_category_2",
-      "response_options": [{
+      "response_options": [
+        {
           "text": "Socialize",
           "icon": "person_2_dialog_4",
           "icon_background_color": "#F1A62E",
